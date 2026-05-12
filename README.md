@@ -155,12 +155,12 @@ After individual significance testing, stepwise selection (forward and backward)
 - Interpreting regression coefficients in a socioeconomic context
 
 ## Files
+```
+├── SLRM X1,X2,X3,X4.xlsx       # Dataset — simple linear regression data for predictors 
+├── MLRM ANALYSIS.xlsx           # Dataset — multiple linear regression analysis
+├── Report.pdf                   # Full project report with analysis, plots, and findings
+└── README.md                    # Project overview (this file)
+```
 
-```
-├── data/               # World Happiness Report dataset
-├── analysis/           # Regression scripts and model selection
-├── plots/              # EDA and diagnostic plots
-└── report/             # Final write-up / summary
-```
 
 ---
